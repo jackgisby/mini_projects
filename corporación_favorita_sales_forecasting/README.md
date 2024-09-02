@@ -1,1 +1,0 @@
-Notebook for the Kaggle competition: Corporación Favorita sales forecasting. Work in progress.

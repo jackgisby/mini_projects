@@ -1,1 +1,0 @@
-Contains some initial EDA/data processing for the Kaggle competition Getting started: store sales. Notebook is incomplete.
